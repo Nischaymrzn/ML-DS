@@ -1,4 +1,4 @@
-# 🧠 Vector Concepts for AI/ML - Quick Guide
+# 🧠 Vector Concepts for AI/ML
 
 ## 📌 What is a Vector?
 - A **vector** is an ordered array of numbers.
