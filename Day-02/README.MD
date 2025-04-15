@@ -1,9 +1,5 @@
 # 🧠 Vector Concepts for AI/ML - Quick Guide
 
-This guide explains vectors and their applications in AI/ML in a clear, beginner-friendly way. Save this in your `README.md` in VS Code for quick reference!
-
----
-
 ## 📌 What is a Vector?
 - A **vector** is an ordered array of numbers.
 - Represents **magnitude and direction** in space.
