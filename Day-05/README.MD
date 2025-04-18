@@ -46,7 +46,7 @@ Covariance is a measure of how much two random variables vary together.
 - **Negative Covariance**: One increases while the other decreases.
 - **Zero Covariance**: No linear relationship.
 
-![Covariance](./images/covariance.png)
+![Covariance](./images/comatrix.png)
 
 ---
 
