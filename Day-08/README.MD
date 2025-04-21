@@ -8,6 +8,8 @@
   - Reducing complexity in multivariate Gaussian models
 - Practiced deriving the decomposition manually for 3×3 matrices using step-by-step formulas.
 
+![Cholesky](./images/cholesky.png)
+
 ## 🔸 Linear Algebra Review
 - **Eigenvalues & Eigenvectors**: Key to dimensionality reduction and matrix transformations.
 - **Principal Component Analysis (PCA)**: For reducing feature space while retaining variance.
