@@ -6,7 +6,7 @@ My goal is to develop a strong theoretical foundation and practical skills in AI
 This repository documents my progress across two major learning challenges: 
 
 ### 🔹 111 Days of AIML Learning (Code for Change)
-📅 **Progress: Day 1 to Day 45 completed**
+📅 **Progress: Started from Day 1**
 
 A self-initiated challenge to master the theoretical foundations and practical implementations of machine learning.
 
