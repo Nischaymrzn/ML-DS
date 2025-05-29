@@ -1,21 +1,7 @@
-# 📚 Continuous AI/ML Learning Journey
-
-Welcome to my evolving journey of mastering Artificial Intelligence (AI) and Machine Learning (ML) through consistent, focused daily effort.
+📚 111 Days of AIML Learning |
+Welcome to my journey of mastering Artificial Intelligence (AI) and Machine Learning (ML) over 111 continuous days!
+This repository tracks my daily learning, key takeaways, project builds, and personal reflections.
 My goal is to develop a strong theoretical foundation and practical skills in AI/ML through focused, consistent effort.
-
-This repository documents my progress across two major learning challenges: 
-
-### 🔹 111 Days of AIML Learning (Code for Change)
-📅 **Progress: Started from Day 1**
-
-A self-initiated challenge to master the theoretical foundations and practical implementations of machine learning.
-
----
-
-### 🔹 60 Days of Learning (Leapfrog)
-📅 **Started from Day 49 onward**
-
-This challenge continues my learning journey under Leapfrog’s 60-day sprint, aiming to deepen my understanding, improve practical skills, and build real-world projects.
 
 ---
 
