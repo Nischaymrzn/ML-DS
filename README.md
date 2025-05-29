@@ -1,4 +1,5 @@
-📚 111 Days of AIML Learning |
+### 📚 111 Days of AIML Learning 
+
 Welcome to my journey of mastering Artificial Intelligence (AI) and Machine Learning (ML) over 111 continuous days!
 This repository tracks my daily learning, key takeaways, project builds, and personal reflections.
 My goal is to develop a strong theoretical foundation and practical skills in AI/ML through focused, consistent effort.
