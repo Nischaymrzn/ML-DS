@@ -14,7 +14,7 @@
 - Common tasks include clustering, dimensionality reduction, and anomaly detection  
 - Useful when labels are unavailable or expensive to obtain  
 
-![ML](./images/ml.png)
+![ML](./images/ml.jpg)
 
 ### Clustering Concepts
 
