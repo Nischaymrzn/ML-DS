@@ -36,7 +36,7 @@
 
 ---
 
-## 🔑 Key Takeaways
+## 🔑 Key Takeaway
 
 - KNN is intuitive and effective for classification with labeled data  
 - Hyperparameter k significantly impacts model performance  
