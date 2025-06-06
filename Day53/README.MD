@@ -23,7 +23,7 @@
 
 ---
 
-## Key Takeaway
+## Key Takeaways
 
 - Centroid initialization greatly affects K-Means clustering outcomes  
 - Working with real-world data helps understand practical challenges and tuning  
